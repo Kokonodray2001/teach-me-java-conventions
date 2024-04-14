@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.powerpackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-14T04:23:07" hostname="LAPTOP-GIIS5511" time="0.003">
+  <properties/>
+  <testcase name="twoRaisedToOneShouldBeTwoTest" classname="com.powerpackage.PowerFinderTest" time="0.002"/>
+  <testcase name="twoRaisedToThreeShouldBeEightTest" classname="com.powerpackage.PowerFinderTest" time="0.0"/>
+  <testcase name="oneRaisedToOneShouldBeOneTest" classname="com.powerpackage.PowerFinderTest" time="0.0"/>
+  <testcase name="twoRaisedToTwoShouldBeFourTest" classname="com.powerpackage.PowerFinderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
